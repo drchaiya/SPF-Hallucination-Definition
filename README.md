@@ -51,7 +51,7 @@ By analyzing the signs of $\mathbf{X}$ and $\mathbf{Y}$ across the complex plane
 | **Q1** | $\mathbf{X}>0$ | $\mathbf{Y}>0$ | **Degree 0 / Grounded Truth** | Useful answer with conversational fluidity. | Low (Goal State) |
 | **Q4** | $\mathbf{X}>0$ | $\mathbf{Y}<0$ | **Degree 1 / Fabrication Risk** | Correct core answer ($\mathbf{X}$), but with fabricated, irrelevant details ($\mathbf{Y}<0$). | Minor Error |
 | **Q3** | $\mathbf{X}<0$ | $\mathbf{Y}<0$ | **Degree 2 / Pure Fabrication** | The response is a volatile lie, detached from the prompt's core. | Severe Failure |
-| **Q2** | $\mathbf{X}<0$ | $\mathbf{Y}>0$ | **Degree 3 / Persuasive Lie** | Factual contradiction ($\mathbf{X}<0$) delivered with high fluency ($\mathbf{Y}>0$), making the falsehood highly believable. | **MAXIMUM RISK** |
+| **Q2** | $\mathbf{X}<0$ | $\mathbf{Y}>0$ | **Degree 3 / Persuasive Lie** | Factual contradiction ($\mathbf{X}<0$) delivered with high fluency ($\mathbf{Y}>0$), making the falsehood highly believable. | **MAXIMUM RISK** or **SCI-FI best seller books** |
 
 ## 🛠️ Practical Applications
 
